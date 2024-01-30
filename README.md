@@ -1,1 +1,2 @@
-# csdc105
+# Subject Name: TRENDS IN APPLICATION DEVELOPENT
+# Subject Code: CSDC105
